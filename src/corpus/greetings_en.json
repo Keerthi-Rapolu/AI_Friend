@@ -1,0 +1,21 @@
+[
+  "Hey {name}! How's your {day_part} going?",
+  "Good {day_part}, {name}! How are you today?",
+  "Hi {name}, how’s your {day_part} going so far?",
+  "Hello {name}! Anything you’d like to focus on this {day_part}?",
+  "Hey {name}! Hope your {day_part} is going well.",
+  "Good {day_part}, {name}. What would help right now?",
+  "Hi {name}! Had a good start to your {day_part}?",
+  "Good {day_part}, {name}! What’s on your mind?",
+  "Hi {name}! Anything fun or annoying today?",
+  "Hello {name}! How are you feeling this {day_part}?",
+  "Howdy {name}! How are you feeling this {day_part}?",
+  "Hi {name}! What’s new this {day_part}?",
+  "Good {day_part}, {name}! How can I support you?",
+  "Hi {name}! Any plans for this {day_part}?",
+  "Hi {name}! How would you like this {day_part} to go?",
+  "Good to see you, {name}. What would help right now?",
+  "Hi {name}! Any wins or worries this {day_part}?",
+  "Hello {name}! What’s the priority for this {day_part}?",
+  "Hey {name}! Quick vibe check—how are you doing?"
+]
